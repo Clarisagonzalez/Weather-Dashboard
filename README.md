@@ -5,7 +5,7 @@ This Weather Dashboard is a web application that allows users to search for citi
 ![Weather Dashboard Screenshot](weatherdashboard.png) 
 
 ## Deployed Site
-
+[Weather Dashboard - Live Demo](https://clarisagonzalez.github.io/Weather-Dashboard/)
 
 
 ## Features
